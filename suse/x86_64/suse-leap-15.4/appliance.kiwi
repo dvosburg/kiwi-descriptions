@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<image schemaversion="6.8" name="Leap-15.4_appliance">
+<image schemaversion="6.8" name="15.4_appliance">
     <description type="system">
-        <author>Marcus Schaefer</author>
-        <contact>ms@suse.de</contact>
+        <author>Don Vosburg</author>
+        <contact>dvosburg@suse.com</contact>
         <specification>
-            Leap 15.4 Appliance, is a small text based image
+            SLES 15 SP4 Appliance, is a small text based image
         </specification>
     </description>
     <profiles>
